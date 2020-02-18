@@ -1,0 +1,13 @@
+Werkzeug
+Flask
+numpy
+gevent
+pillow
+azure-cognitiveservices-vision-computervision==0.4.0
+azure-cognitiveservices-vision-customvision==1.0.0
+azure-cognitiveservices-vision-face==0.4.0
+scipy==1.3.0
+scikit-image==0.15.0
+matplotlib==3.0.3
+azure-common==1.1.23
+pandas==0.24.2
