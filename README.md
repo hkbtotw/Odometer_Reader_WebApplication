@@ -1,11 +1,8 @@
-# imageclassifier
-ML Demo for Image Classifier.
+<h1>Odometer Reader Application - Web app version (on Azure Web App)</h1>
 
-This is a simple Azure Flask App for doing Image classification. You can clone this repository and deploy easily to Azure or any other Cloud provider.
 
-You can read a detailed description of this project here - 
+<i> Web app version of Odometer Reader; referred to the Odometer Reader repository  </i>
 
-https://venkateshnarayanan.wordpress.com/2019/10/13/tutorial%e2%80%8a-%e2%80%8aimage-classifier-using-resnet50-deep-learning-model-python-flask-in-azure/
 
-https://medium.com/@venkinarayanan/tutorial-image-classifier-using-resnet50-deep-learning-model-python-flask-in-azure-4c2b129af6d2
-
+<b>Link to Web application</b>
+https://flask-beginner.azurewebsites.net/
