@@ -4,5 +4,6 @@
 <i> Web app version of Odometer Reader; referred to the Odometer Reader repository  </i>
 
 
-<b>Link to Web application</b>
-https://flask-beginner.azurewebsites.net/
+<b>Link to Web application</b><br /p>
+
+<p>http://odometer-reader-app.herokuapp.com/</p>
