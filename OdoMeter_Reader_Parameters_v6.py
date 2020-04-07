@@ -19,11 +19,11 @@ from scipy import ndimage
 
 # Mac Endpoint (Use if TT enpoint is out of limit at certain period of time due to free plan selection)
 mac_ep2="https://southeastasia.api.cognitive.microsoft.com/"
-mac_sub2='f34ac0f710884d41a55d6385545c2962'
+mac_sub2='Your Subscription Key'
 
 # Meter Detection
 dm_endpoint="https://southeastasia.api.cognitive.microsoft.com/"
-subscription='2931247984204b1c997ad8ebcc1c80b7'
+subscription='Your Subscription Key'
 dm_ocr_url = dm_endpoint + "customvision/v3.0/Prediction/95dba6d3-4d44-4b23-bad3-dd9d0a15090e/detect/iterations/Iteration3/image"
 
 
@@ -31,7 +31,7 @@ dm_ocr_url = dm_endpoint + "customvision/v3.0/Prediction/95dba6d3-4d44-4b23-bad3
 mac_endpoint="https://eastus.api.cognitive.microsoft.com/"
 mac_ocr_url = mac_endpoint + "customvision/v3.0/Prediction/b62e724e-6590-4317-8424-32f96223f8dd/detect/iterations/Iteration35/image"
 
-mac_subscription='4dcf0fb76847411382a3983c87a82e7c'
+mac_subscription='Your Subscription Key'
 mac_headers = {'Prediction-Key': mac_subscription, 'Content-Type': 'application/octet-stream'}
 
 #Gray_Full+Semi recognition by Classfication
