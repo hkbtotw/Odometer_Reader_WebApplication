@@ -7,3 +7,8 @@
 <b>Link to Web application</b><br />
 
 <p>http://odometer-reader-app.herokuapp.com/</p>
+
+<b>Sample Images:<br/></b>
+Web Application UI
+
+<img src=https://github.com/hkbtotw/Odometer_Reader_WebApllication/blob/master/ScreenCapture.JPG alt="Analog" width="200"/>
