@@ -11,4 +11,4 @@
 <b>Sample Images:<br/></b>
 Web Application UI
 
-<img src=https://github.com/hkbtotw/Odometer_Reader_WebApplication/blob/master/ScreenCapture.JPG alt="Demo UI" width="200"/>
+<img src=https://github.com/hkbtotw/Odometer_Reader_WebApplication/blob/master/ScreenCapture.JPG alt="Demo UI" width="800"/>
